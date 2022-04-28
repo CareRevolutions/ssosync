@@ -1,4 +1,4 @@
-module github.com/CareRevolutions/ssosync
+module github.com/awslabs/ssosync
 
 go 1.16
 
